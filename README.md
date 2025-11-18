@@ -1,5 +1,5 @@
 # Exp5 Bubble Sort and Merge sort in CUDA
-# Name: DHARANYA n
+# Name: DHARANYA N
 # Reference No: 212223230044
 # Date:13-11-2025
 **Objective:**
